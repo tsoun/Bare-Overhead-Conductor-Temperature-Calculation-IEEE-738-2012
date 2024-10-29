@@ -20,7 +20,7 @@ This repository contains a fire risk mapping tool designed to assess fire risks 
   This file sets up the environmental parameters affecting the conductors' thermal behavior. It includes factors like ambient temperature, wind velocity, and other atmospheric conditions.
 
 - **GUI for WFR.pyw**  
-  This is a graphical user interface for the fire warning system. It provides an intuitive way for users to interact with the tool and visualize fire risk assessments.
+  This is a graphical user interface for receiving weather forecasts. (Deprecated)
 
 - **case360.m**  
   This file contains data and configurations for the electrical network simulation. It is essential for running power flow analyses and assessing network performance.
